@@ -1,6 +1,6 @@
 # Setup von Anaconda und VS Code für wissenschaftliches Programmieren
 
-### Was wir in diesem Video machen 
+### Was wir in diesem Video machen
 
 Wir setzen von Grund auf ein vollständiges Python-System für wissenschaftliches Programmieren auf:
 
@@ -23,7 +23,7 @@ Anaconda enthält sowohl Python als auch alle Bibliotheken, um schnell mit wisse
 
 ![](https://www.google.com/s2/favicons?sz=64&domain_url=https%3A%2F%2Fwww.anaconda.com)[https://www.anaconda.com/download/success](https://www.anaconda.com/download/success)
 
-Installieren Sie am einfachsten die `komplette Anaconda Distribution`, um sich nicht gleich zu Anfang mit dem Thema *Python-Umgebungen* auseinandersetzen zu müssen. 
+Installieren Sie am einfachsten die `komplette Anaconda Distribution`, um sich nicht gleich zu Anfang mit dem Thema *Python-Umgebungen* auseinandersetzen zu müssen.
 
 **Tipp für Windows-Nutzer:**
 Bei der Installation von Anaconda kann die Checkbox *Add Anaconda3 to my PATH environment variable* gesetzt werden, auch wenn häufig davon abgeraten wird. Dies vereinfacht später die Nutzung von Python und Conda in VS Code. Wenn sich außer Anaconda weitere Python-Installationen auf dem System befinden, kann genau diese Einstellungen aber zu Konflikten führen (siehe oben).
@@ -51,15 +51,15 @@ Installation einer Extension in VS Code:
 2. Namen der Erweiterung suchen
 3. **Installieren** anklicken
 
-**Hinweise:** 
+**Hinweise:**
 1. Manchmal bekommt man sehr viele Suchtreffer, wenn man nach dem Namen (z.B. `Python`) sucht. Hier ist meist die Extension mit den meisten Downloads diejenige, die man haben möchte
-2. Nach der Installation benötigen einige Erweiterungen möglicherweise zusätzliche Einrichtung oder einen Neustart von VS Code, damit sie ordnungsgemäß funktionieren. 
+2. Nach der Installation benötigen einige Erweiterungen möglicherweise zusätzliche Einrichtung oder einen Neustart von VS Code, damit sie ordnungsgemäß funktionieren.
 
 ### Das Setup testen
 
 ### Das Setup testen
 
-- Laden Sie die Materialien dieses Videos von [GitHub]() herunter.
+- Laden Sie die Materialien dieses Videos von [GitHub](https://github.com/terben/Python_fuer_Naturwissenschaftler) herunter.
 - Öffnen Sie in VS Code über `File → Open Folder` das Verzeichnis `Video_02_Python_Setup` innerhalb der Materialien.
 - Beim ersten Öffnen des Ordners erscheint in VS Code möglicherweise eine Sicherheitsabfrage (*Trust author*). Da es sich um die Materialien dieses Videos handelt und die Dateien lokal auf Ihrem Rechner liegen, können Sie diese Abfrage bedenkenlos bestätigen.
 - Öffnen Sie über den File-Explorer (links in VS Code) das Notebook `VSCode_notebook.ipynb` und führen Sie die einzelnen Zellen aus. Sie können innerhalb von VS Code wie gewohnt mit Jupyter-Notebooks arbeiten.
@@ -67,4 +67,3 @@ Installation einer Extension in VS Code:
 - Öffnen Sie anschließend das Python-Skript `VSCode_skript.py`. Starten Sie das Skript, indem Sie auf das ▶-Symbol (**Run Python File**) oben rechts im Editor klicken. Im unteren Bereich von VS Code öffnet sich ein Terminal, in dem die Ausgabe des Skripts angezeigt wird.
 
 Nach diesem Setup können Sie Python-Skripte und Jupyter-Notebooks in VS Code mit Anaconda-Umgebungen ausführen und direkt mit der Programmierung loslegen.
-
