@@ -57,11 +57,14 @@ Installation einer Extension in VS Code:
 
 ### Das Setup testen
 
+### Das Setup testen
+
 - Laden Sie die Materialien dieses Videos von [GitHub]() herunter.
-- Öffnen Sie in VS Code über `File → Open Folder` das Verzeichnis `Video_02_Python_Setup`. Beim ersten Öffnen des Ordners erscheint in VS Code möglicherweise eine Sicherheitsabfrage (Trust author). Da es sich um die Materialien dieses Videos handelt und die Dateien lokal auf Ihrem Rechner liegen, können Sie diese Abfrage bedenkenlos bestätigen.
+- Öffnen Sie in VS Code über `File → Open Folder` das Verzeichnis `Video_02_Python_Setup` innerhalb der Materialien.
+- Beim ersten Öffnen des Ordners erscheint in VS Code möglicherweise eine Sicherheitsabfrage (*Trust author*). Da es sich um die Materialien dieses Videos handelt und die Dateien lokal auf Ihrem Rechner liegen, können Sie diese Abfrage bedenkenlos bestätigen.
 - Öffnen Sie über den File-Explorer (links in VS Code) das Notebook `VSCode_notebook.ipynb` und führen Sie die einzelnen Zellen aus. Sie können innerhalb von VS Code wie gewohnt mit Jupyter-Notebooks arbeiten.
-- Öffnen Sie anschließend das Python-Skript `VSCode_skript.py`. Starten Sie das Skript, indem Sie auf das ▶-Symbol (**Run Python File**) oben rechts im Editor klicken.  
-  Im unteren Bereich von VS Code öffnet sich ein Terminal, in dem die Ausgabe des Skripts angezeigt wird.
+- Abhängig von Ihrem System kann VS Code beim Öffnen des Notebooks oder einer Python-Datei nach der zu verwendenden Python-Umgebung fragen. Diese Abfrage erscheint nur, wenn mehrere Python-Umgebungen vorhanden sind. Falls eine Auswahl angezeigt wird, wählen Sie die entsprechende Anaconda-Umgebung aus (z.B. die *base*-Umgebung). Ist nur eine Umgebung vorhanden, erfolgt die Auswahl automatisch.
+- Öffnen Sie anschließend das Python-Skript `VSCode_skript.py`. Starten Sie das Skript, indem Sie auf das ▶-Symbol (**Run Python File**) oben rechts im Editor klicken. Im unteren Bereich von VS Code öffnet sich ein Terminal, in dem die Ausgabe des Skripts angezeigt wird.
 
 Nach diesem Setup können Sie Python-Skripte und Jupyter-Notebooks in VS Code mit Anaconda-Umgebungen ausführen und direkt mit der Programmierung loslegen.
 
