@@ -57,8 +57,6 @@ Installation einer Extension in VS Code:
 
 ### Das Setup testen
 
-### Das Setup testen
-
 - Laden Sie die Materialien dieses Videos von [GitHub](https://github.com/terben/Python_fuer_Naturwissenschaftler) herunter.
 - Öffnen Sie in VS Code über `File → Open Folder` das Verzeichnis `Video_02_Python_Setup` innerhalb der Materialien.
 - Beim ersten Öffnen des Ordners erscheint in VS Code möglicherweise eine Sicherheitsabfrage (*Trust author*). Da es sich um die Materialien dieses Videos handelt und die Dateien lokal auf Ihrem Rechner liegen, können Sie diese Abfrage bedenkenlos bestätigen.
