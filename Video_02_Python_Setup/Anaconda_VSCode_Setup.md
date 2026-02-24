@@ -17,6 +17,8 @@ Falls Sie Anaconda und VS Code für Ihre wissenschaftlichen Projekte nutzen möc
 
 Ein erster Hinweis auf eine bestehende Python-Installation ist die Suche nach `idle` im Windows-Suchfeld. Falls hier Treffer erscheinen, ist sehr wahrscheinlich bereits eine andere Python-Version vorhanden.
 
+**Hinweis:** Falls Sie auf einem Linux- oder auf einem macOS-System arbeiten, ist es deutlich unkritischer als unter Windows, mit mehreren Python-Installationen zu arbeiten!
+
 ### Anaconda installieren
 
 Anaconda enthält sowohl Python als auch alle Bibliotheken, um schnell mit wissenschaftlichen Projekten loszulegen. Es ist zudem sehr nützlich zur Verwaltung mehrerer Python-Umgebungen und Abhängigkeiten.
@@ -61,7 +63,7 @@ Installation einer Extension in VS Code:
 - Öffnen Sie in VS Code über `File → Open Folder` das Verzeichnis `Video_02_Python_Setup` innerhalb der Materialien.
 - Beim ersten Öffnen des Ordners erscheint in VS Code möglicherweise eine Sicherheitsabfrage (*Trust author*). Da es sich um die Materialien dieses Videos handelt und die Dateien lokal auf Ihrem Rechner liegen, können Sie diese Abfrage bedenkenlos bestätigen.
 - Öffnen Sie über den File-Explorer (links in VS Code) das Notebook `VSCode_notebook.ipynb` und führen Sie die einzelnen Zellen aus. Sie können innerhalb von VS Code wie gewohnt mit Jupyter-Notebooks arbeiten.
-- Abhängig von Ihrem System kann VS Code beim Öffnen des Notebooks oder einer Python-Datei nach der zu verwendenden Python-Umgebung fragen. Diese Abfrage erscheint nur, wenn mehrere Python-Umgebungen vorhanden sind. Falls eine Auswahl angezeigt wird, wählen Sie die entsprechende Anaconda-Umgebung aus (z.B. die *base*-Umgebung). Ist nur eine Umgebung vorhanden, erfolgt die Auswahl automatisch.
+- Abhängig von Ihrem System kann VS Code beim Öffnen des Notebooks oder einer Python-Datei nach der zu verwendenden Python-Umgebung fragen. Diese Abfrage erscheint in der Regel nur, wenn mehrere Python-Umgebungen vorhanden sind. Falls eine Auswahl angezeigt wird, wählen Sie die entsprechende Anaconda-Umgebung aus (z.B. die *base*-Umgebung). Ist nur eine Umgebung vorhanden, sollte die Auswahl automatisch erfolgen.
 - Öffnen Sie anschließend das Python-Skript `VSCode_skript.py`. Starten Sie das Skript, indem Sie auf das ▶-Symbol (**Run Python File**) oben rechts im Editor klicken. Im unteren Bereich von VS Code öffnet sich ein Terminal, in dem die Ausgabe des Skripts angezeigt wird.
 
 Nach diesem Setup können Sie Python-Skripte und Jupyter-Notebooks in VS Code mit Anaconda-Umgebungen ausführen und direkt mit der Programmierung loslegen.
