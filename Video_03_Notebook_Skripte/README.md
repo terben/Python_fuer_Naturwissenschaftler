@@ -1,7 +1,7 @@
 ## Online Material zu [Teil 03](https://youtu.be/odMlGXPpMNg) meiner *Python für Naturwissenschftler*-Videoreihe auf YouTube.
 
-- Die Datei [Anaconda_VSCode_Setup.md](Anaconda_VSCode_Setup.md) enthält die Schritt-für Schritt Anleitung zum Installieren von Anaconda und VSCode
+- Die Datei [Video_03_Notebook_Skripte.md](Video_03_Notebook_Skripte.md) enthält die Zusammenfassung Videos und nötige Setups
 
-- Die Datei [VSCode_notebook.ipynb](VSCode_notebook.ipynb) ist ein Notebook zum Testen der Anaconda/VSCode Installation
+- Die Datei [data.csv](data.csv) enthält Daten eines fiktiven Fahrradverleihs am Campus Bonn
 
-- Die Datei [VSCode_skript.py](VSCode_skript.py) ist ein minimales Python-Skript zum Testen der Anaconda/VSCode Installation
+- Die Dateien [Video_03.ipynb](Video_03.ipynb) und [Video_03.py](Video_03.py) enthalten die im Video gezeigten Notebook- und Skriptdateien
