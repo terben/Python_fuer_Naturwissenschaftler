@@ -1,4 +1,4 @@
-## Online Material zu [Teil 04]() meiner *Python für Naturwissenschaftler*-Videoreihe auf YouTube.
+## Online Material zu [Teil 04](https://youtu.be/hQehkRalcbo) meiner *Python für Naturwissenschaftler*-Videoreihe auf YouTube.
 
 - Die Datei [Video_04_NumPy_Grundlagen.ipynb]()Video_04_NumPy_Grundlagen.ipynb enthält das im Video vorgestellte Notebook zur Einführung in NumPy-Arrays
 
