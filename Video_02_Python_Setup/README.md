@@ -1,4 +1,4 @@
-## Online Material zu [Teil 02](https://youtu.be/odMlGXPpMNg) meiner *Python für Naturwissenschftler*-Videoreihe auf YouTube.
+## Online Material zu [Teil 02](https://youtu.be/odMlGXPpMNg) meiner *Python für Naturwissenschaftler*-Videoreihe auf YouTube.
 
 - Die Datei [Anaconda_VSCode_Setup.md](Anaconda_VSCode_Setup.md) enthält die Schritt-für Schritt Anleitung zum Installieren von Anaconda und VSCode
 
