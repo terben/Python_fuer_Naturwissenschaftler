@@ -1,4 +1,4 @@
-## Online Material zu [Teil 03](https://youtu.be/odMlGXPpMNg) meiner *Python für Naturwissenschftler*-Videoreihe auf YouTube.
+## Online Material zu [Teil 03](https://youtu.be/KEBtV9JUYeg) meiner *Python für Naturwissenschftler*-Videoreihe auf YouTube.
 
 - Die Datei [Video_03_Notebook_Skripte.md](Video_03_Notebook_Skripte.md) enthält die Zusammenfassung Videos und nötige Setups
 
